@@ -2,7 +2,6 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto 0 auto;
   width: 80%;
 }
