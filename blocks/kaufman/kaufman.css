@@ -6,6 +6,6 @@
   background-color:#1f1f1f;
   overflow: hidden;
   position: relative;
-  padding-bottom: 90px;
+  padding: 90px 0 90px 0;
   z-index: 1;
 }
